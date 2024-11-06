@@ -1,4 +1,4 @@
-import React, { useState, ChangeEvent, FormEvent } from "react";
+import { useState, ChangeEvent, FormEvent } from "react";
 import emailjs from "@emailjs/browser";
 import { useNavigate } from "react-router-dom";
 import styles from "./styles.module.scss";
